@@ -1,0 +1,4 @@
+﻿Cheerios,1,7.00
+Detergent,2,7.00
+Apples,3,3.00
+Oranges,4,4.00
